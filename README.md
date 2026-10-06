@@ -1,4 +1,4 @@
-```markdown
+
 # ⚡ React + Material UI (MUI) Enterprise Starter
 
 A modern, production-ready frontend boilerplate engineered with **React**, **Vite**, and **Material UI (MUI)**. Built following clean architecture principles with pre-configured routing, theme customization, and an enterprise-grade API client.
@@ -40,7 +40,7 @@ src/
 
 ```
 
----
+
 
 ## 🚀 Quick Start
 
@@ -88,16 +88,9 @@ The app will be running at `http://localhost:5173`.
 
 ---
 
-## 🔗 Integrated Ecosystem
-
-Designed to integrate out-of-the-box with the companion **Express.js + Prisma + Docker** backend template.
-
----
 
 ## 📄 License
 
 This project is licensed under the [MIT License](https://www.google.com/search?q=LICENSE).
 
-```
 
-```
